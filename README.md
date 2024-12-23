@@ -32,6 +32,12 @@ An Anaconda Graphical installer can be found via: https://www.continuum.io/downl
 
 We recommend users install the latest Anaconda Python distribution
 
-Some dependencies of the Jupyter notebooks
+Some dependencies of the Jupyter notebooks: <br>
 
-TensorFlow = 2.2; Scikit-image = 0.19; Matplotlib = 3.5.1; Pandas = 1.4.2; Numpy = 1.22.4; Scipy = 1.7.3; ultralytics = 8.1.9
+TensorFlow = 2.2; 
+Scikit-image = 0.19; 
+Matplotlib = 3.5.1; 
+Pandas = 1.4.2; 
+Numpy = 1.22.4; 
+Scipy = 1.7.3; 
+ultralytics = 8.1.9
