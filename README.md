@@ -34,4 +34,4 @@ We recommend users install the latest Anaconda Python distribution
 
 Some dependencies of the Jupyter notebooks
 
-TensorFlow = 2.2; Scikit-image =0.19; Matplotlib =3.5.1; Pandas=1.4.2; Numpy=1.22.4; Scipy=1.7.3
+TensorFlow = 2.2; Scikit-image = 0.19; Matplotlib = 3.5.1; Pandas = 1.4.2; Numpy = 1.22.4; Scipy = 1.7.3; ultralytics = 8.1.9
