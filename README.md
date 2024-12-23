@@ -3,14 +3,14 @@ Jie Dai, Zhenjie Wen, Ji Zhou
 
 ## The main files are as follows:
 
-(1) Dataset <br>
+### Dataset <br>
 The 'SeedVig-phase' dataset for objection detection, predicting seed-level germination phases (such as imbibition, protrusion, radicle emergence, and seedling establishment); <br>
 The 'SeedVig-traits' dataset for semantic segmentation, predicting masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
-(2) Jupyter notebook <br> 
+### Jupyter notebook <br> 
 Python-based source code that contains the image pre-processing, the model integration and execution.
 
-(3) Outputs of the AI model <br> 
+### Outputs of the AI model <br> 
 The YOLOv8s-germ model and output results for germination phase detection; <br>
 The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
