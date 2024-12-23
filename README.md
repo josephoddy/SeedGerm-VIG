@@ -13,6 +13,7 @@ Python-based source code that contains the image pre-processing, the model integ
 
 ### Outputs of the AI model <br> 
 (1) The YOLOv8s-germ model and output results for germination phase detection; <br>
+
 (2) The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
 We also uploaded two example image series.
