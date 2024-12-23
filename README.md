@@ -39,4 +39,5 @@ Matplotlib = 3.5.1; <br>
 Pandas = 1.4.2; <br>
 Numpy = 1.22.4; <br>
 Scipy = 1.7.3; <br>
-ultralytics = 8.1.9
+ultralytics = 8.1.9; <br>
+PyTorch = 1.9.0;
