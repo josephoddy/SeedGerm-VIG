@@ -4,7 +4,7 @@ Jie Dai, Zhenjie Wen, Ji Zhou
 ## The main files are as follows:
 
 ### Dataset <br>
-(1) The 'SeedVig-phase' dataset for objection detection, predicting seed-level germination phases (such as imbibition, protrusion, radicle emergence, and seedling establishment); <br>
+(1) The 'SeedVig-phase' dataset for object detection, predicting seed-level germination phases (such as imbibition, protrusion, radicle emergence, and seedling establishment); <br>
 
 (2) The 'SeedVig-traits' dataset for semantic segmentation, predicting masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
@@ -12,8 +12,8 @@ Jie Dai, Zhenjie Wen, Ji Zhou
 Python-based source code that contains the image pre-processing, the model integration and execution.
 
 ### Outputs of the AI model <br> 
-The YOLOv8s-germ model and output results for germination phase detection; <br>
-The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
+(1) The YOLOv8s-germ model and output results for germination phase detection; <br>
+(2) The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
 We also uploaded two example image series.
 
@@ -25,11 +25,9 @@ We also uploaded two example image series.
 
 • To install Anaconda Python distribution:
 
-Read the install instruction using the URL: https://docs.continuum.io/anaconda/install
-
-For Windows users, a detailed step-by-step installation guide can be found via: https://docs.continuum.io/anaconda/install/windows
-
-An Anaconda Graphical installer can be found via: https://www.continuum.io/downloads
+Read the install instruction using the URL: https://docs.continuum.io/anaconda/install <br>
+For Windows users, a detailed step-by-step installation guide can be found via: https://docs.continuum.io/anaconda/install/windows <br>
+An Anaconda Graphical installer can be found via: https://www.continuum.io/downloads <br>
 
 We recommend users install the latest Anaconda Python distribution
 
