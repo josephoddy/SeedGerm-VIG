@@ -8,7 +8,7 @@ The 'SeedVig-phase' dataset for objection detection, predicting seed-level germi
 The 'SeedVig-traits' dataset for semantic segmentation, predicting masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
 (2) Jupyter notebook <br> 
-Python-based source coce that contains the image pre-processing, the model integration and execution.
+Python-based source code that contains the image pre-processing, the model integration and execution.
 
 (3) Outputs of the AI model <br> 
 The YOLOv8s-germ model and output results for germination phase detection; <br>
