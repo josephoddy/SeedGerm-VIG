@@ -12,7 +12,7 @@ Jie Dai, Zhenjie Wen, Ji Zhou
 Python-based source code that contains the image pre-processing, the model integration and execution.
 
 ### Outputs of the AI model <br> 
-(1) The YOLOv8x-germ model and output results for germination phase detection; <br>
+(1) The YOLOv8x-Germ model and output results for germination phase detection; <br>
 
 (2) The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
