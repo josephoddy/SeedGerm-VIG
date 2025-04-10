@@ -16,7 +16,7 @@ Python-based source code that contains the image pre-processing, the model integ
 
 (2) The U-net models and output results for masks of seeds without roots and seedling, seeds with roots and seedling, and seedling only.
 
-We also uploaded all the image series used, with two example image series packaged separately.
+We also uploaded all the image series used, with two example image series (i.e. black_G7, and blue_G2) packaged separately.
 
 ## To install Python, Anaconda and Libraries If you wish to run from the source code provided in this project, you will need to set up Python on your system.
 
