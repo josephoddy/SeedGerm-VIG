@@ -3,6 +3,7 @@ Jie Dai, Zhenjie Wen, Ji Zhou
 
 ## A brief introduction:
 Early developmental phases such as seed germination and seedling establishment are key to cereal plants' growth and development as they impact directly on crop performance and yield potential. Hence, it is critical to develop varieties with favourable early growth characteristics under various growing conditions to sustain early crop performance. In this repository, we present SeedGerm-VIG, an automated and comprehensive pipeline developed for assessing seed vigour in wheat and other cereal crops. Building on the SeedGerm system (https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16736), we integrated multiple deep learning models (i.e. YOLOv8x-Germ and optimised U-Net) and computer vision algorithms into the automated seed-level analysis pipeline to identify key germination phases and measure seed-, root-, and seedling-level phenotypic traits. <br>
+
 In the repository, we provide algorithms (in Jupyter notebooks) using time series directed graph to track root tips to measure root emergence during the germination procedure, as well as a new approach to examine speed and uniformity of germination (i.e. seed vigour assessment). The datasets also include 21 commercial wheat genotypes, and 6 rice and 12 barley genotypes.
 
 ## The main files are as follows:
