@@ -47,3 +47,6 @@ Numpy = 1.22.4; <br>
 Scipy = 1.7.3; <br>
 ultralytics = 8.1.9; <br>
 PyTorch = 1.9.0;
+
+## License
+Source codes, notebooks, deeplearning datasets, example germination image series, and user DL models are shared under the MIT license. The seed germination image series datasets, including wheat, barley, and rice, are under the CC0 public waiver and are available to the BioImage Archive repository S-BIAD1852 (https://doi.org/10.6019/S-BIAD1852). 
